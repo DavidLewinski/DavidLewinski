@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidLewinski
+- 👋 Hi, I’m @david_lewinski02
 - 👀 I’m interested in Manga and the rest of the world
 - 🌱 I’m currently learning Computer Science @ DCU
 - 📫 How to reach me; https://www.linkedin.com/in/david-lewinski/
