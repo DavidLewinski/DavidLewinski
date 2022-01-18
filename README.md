@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @david_lewinski02
 - 👀 I’m interested in reading and exploring the world!
-- 🌱 I’m currently learning Computer Science at DCU
+- 📖 I’m currently learning Computer Science at DCU
 - 📫 You can reach me here; https://www.linkedin.com/in/david-lewinski/
 
 <!---
